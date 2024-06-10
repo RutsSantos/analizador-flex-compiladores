@@ -1,0 +1,8 @@
+123
+hello
+como esta
+Rut Santos
+2171270
+2+2
+'esto es una cadena'
+!
